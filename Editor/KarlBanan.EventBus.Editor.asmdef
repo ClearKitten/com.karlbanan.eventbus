@@ -1,0 +1,18 @@
+{
+  "name": "KarlBanan.EventBus.Editor",
+  "rootNamespace": "KarlBanan.EventBus.Editor",
+  "references": [
+    "KarlBanan.EventBus"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
