@@ -1,6 +1,6 @@
 {
   "name": "KarlBanan.EventBus.Editor",
-  "rootNamespace": "KarlBanan.EventBus.Editor",
+  "rootNamespace": "KarlBanan.Events.Editor",
   "references": [
     "KarlBanan.EventBus"
   ],

@@ -1,5 +1,5 @@
 
-namespace KarlBanan.EventBus.Debugging
+namespace KarlBanan.Events.Debugging
 {
     /// <summary>
     /// Defines the type of action recorded by the event bus debug recorder.

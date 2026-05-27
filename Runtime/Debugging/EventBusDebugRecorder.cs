@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace KarlBanan.EventBus.Debugging
+namespace KarlBanan.Events.Debugging
 {
     /// <summary>
     /// Records debug information about event bus activity.

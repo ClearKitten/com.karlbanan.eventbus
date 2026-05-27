@@ -1,10 +1,10 @@
-using KarlBanan.EventBus.Debugging;
+using KarlBanan.Events.Debugging;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace KarlBanan.EventBus.Editor
+namespace KarlBanan.Events.Editor
 {
     /// <summary>
     /// Draws the timeline tab for recorded event bus activity.

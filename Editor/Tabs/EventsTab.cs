@@ -4,7 +4,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace KarlBanan.EventBus.Editor
+namespace KarlBanan.Events.Editor
 {
     /// <summary>
     /// Draws the events tab for discovered event types.

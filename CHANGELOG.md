@@ -2,6 +2,12 @@
 
 All notable changes to this package will be documented in this file.
 
+## [1.0.1] - 2026-05-27
+
+### Added
+
+- Updated the namespace from KarlBanan.EventBus to KarlBanan.Events
+
 ## [1.0.0] - 2026-05-22
 
 ### Added

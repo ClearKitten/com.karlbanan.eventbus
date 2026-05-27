@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace KarlBanan.EventBus.Debugging
+namespace KarlBanan.Events.Debugging
 {
     /// <summary>
     /// Represents a single debug entry recorded by the event bus.

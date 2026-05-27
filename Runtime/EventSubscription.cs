@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace KarlBanan.EventBus
+namespace KarlBanan.Events
 {
     /// <summary>
     /// Represents a registered event handler together with its invocation priority.

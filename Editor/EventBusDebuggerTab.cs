@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace KarlBanan.EventBus.Editor
+namespace KarlBanan.Events.Editor
 {
     /// <summary>
     /// Defines the available tabs in the event bus debugger window.

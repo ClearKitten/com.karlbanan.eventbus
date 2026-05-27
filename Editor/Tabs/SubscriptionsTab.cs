@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace KarlBanan.EventBus.Editor
+namespace KarlBanan.Events.Editor
 {
     /// <summary>
     /// Draws the subscriptions tab for currently active event bus subscriptions.

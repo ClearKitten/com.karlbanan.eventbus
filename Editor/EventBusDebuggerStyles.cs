@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace KarlBanan.EventBus.Editor
+namespace KarlBanan.Events.Editor
 {
     /// <summary>
     /// Stores shared colors and GUI styles used by the event bus debugger window.

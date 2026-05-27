@@ -1,6 +1,6 @@
 {
   "name": "KarlBanan.EventBus",
-  "rootNamespace": "KarlBanan.EventBus",
+  "rootNamespace": "KarlBanan.Events",
   "references": [],
   "includePlatforms": [],
   "excludePlatforms": [],

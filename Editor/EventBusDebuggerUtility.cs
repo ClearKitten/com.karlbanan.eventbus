@@ -1,8 +1,8 @@
-using KarlBanan.EventBus.Debugging;
+using KarlBanan.Events.Debugging;
 using UnityEditor;
 using UnityEngine;
 
-namespace KarlBanan.EventBus.Editor
+namespace KarlBanan.Events.Editor
 {
     /// <summary>
     /// Provides shared drawing and filtering helpers for the event bus debugger.

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace KarlBanan.EventBus
+namespace KarlBanan.Events
 {
     /// <summary>
     /// Provides common priority values used when subscribing handlers to the <see cref="EventBus"/>.

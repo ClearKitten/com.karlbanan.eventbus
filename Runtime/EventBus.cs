@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using KarlBanan.EventBus.Debugging;
+using KarlBanan.Events.Debugging;
 
-namespace KarlBanan.EventBus
+namespace KarlBanan.Events
 {
     /// <summary>
     /// Provides global event bus for subscribing to, unsubscribing from, and raising game events.

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using KarlBanan.EventBus.Debugging;
+using KarlBanan.Events.Debugging;
 
-namespace KarlBanan.EventBus.Editor
+namespace KarlBanan.Events.Editor
 {
     /// <summary>
     /// Provides an editor window for inspecting event types, active subscriptions, and event bus activity.
