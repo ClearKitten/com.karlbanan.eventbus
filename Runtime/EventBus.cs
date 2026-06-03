@@ -154,6 +154,6 @@ namespace KarlBanan.Events
                 .MakeGenericMethod(eventType)
                 .Invoke(null, new[] { eventInstance });
         }
-    }
 #endif
+    }
 }
