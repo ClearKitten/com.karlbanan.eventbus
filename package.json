@@ -1,6 +1,6 @@
 {
   "name": "com.karlbanan.eventbus",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "displayName": "Event Bus",
   "description": "A lightweight static event bus for Unity with priority based subscriptions and an editor debugger window.",
   "unity": "6000.0",
